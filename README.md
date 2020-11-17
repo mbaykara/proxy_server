@@ -1,1 +1,1 @@
-# proxy_server
+Simple nginx proxy server
